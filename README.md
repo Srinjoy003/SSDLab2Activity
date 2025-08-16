@@ -6,7 +6,7 @@ Lab - 2 :: SQL - Stored Procedures and Cursors
 This submission contains the SQL scripts (q1.sql to q5.sql) for the lab assignment.
 
 
-## Git Repository Link (Mandatory)
+## Git Repository Link 
 
 https://github.com/Srinjoy003/SSDLab2Activity
 
