@@ -8,7 +8,7 @@ This submission contains the SQL scripts (q1.sql to q5.sql) for the lab assignme
 
 ## Git Repository Link (Mandatory)
 
-[IMPORTANT: REPLACE THIS LINE WITH YOUR ACTUAL GIT REPOSITORY LINK]
+https://github.com/Srinjoy003/SSDLab2Activity
 
 
 ## Steps to Execute the Scripts
